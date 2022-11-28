@@ -9,6 +9,7 @@ packages = [{include = "kafka_experiment"}]
 [tool.poetry.dependencies]
 python = "^3.9"
 confluent-kafka = "^1.9.2"
+faust = "^1.10.4"
 
 
 [build-system]
